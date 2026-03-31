@@ -6,8 +6,11 @@ public class PlayerMovement : MonoBehaviour
     [Header("Movement Settings")]
     public float moveSpeed = 7f;
 
- 
 
+    void Start()
+    {
+        
+    }
     void Update()
     {
         float moveX = Input.GetAxisRaw("Horizontal");
