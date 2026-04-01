@@ -9,6 +9,7 @@ public class MissileSpawn : MonoBehaviour
         if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
         {
             Instantiate(missilePrefab, transform.position, transform.rotation);
+
         }
     }
 }
