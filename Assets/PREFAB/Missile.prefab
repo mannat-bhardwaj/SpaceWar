@@ -116,6 +116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb8901e3807fa3d4e833cb5ceb3fabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  StarPrefab: {fileID: 6852035770604031693, guid: 63bb1c555c1a90444b10daad6ae1f09a, type: 3}
 --- !u!70 &-6027317220946809317
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
